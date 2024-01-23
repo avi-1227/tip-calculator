@@ -19,7 +19,6 @@ This Python project is a simple tip calculator that allows users to calculate th
 ## Project Structure
 
 - `tip_calculator.py`: The main Python script containing the tip calculation logic.
-- `LICENSE`: The project's license file.
 - `README.md`: The project's README file (you are currently reading this).
 
 ## Getting Started
